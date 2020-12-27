@@ -13,6 +13,7 @@
 		9A693D3D25986414001A2F15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A693D3B25986414001A2F15 /* Main.storyboard */; };
 		9A693D3F25986415001A2F15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A693D3E25986415001A2F15 /* Assets.xcassets */; };
 		9A693D4225986415001A2F15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A693D4025986415001A2F15 /* LaunchScreen.storyboard */; };
+		9A693D4B259864A7001A2F15 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A693D4A259864A7001A2F15 /* CircularProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9A693D3E25986415001A2F15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A693D4125986415001A2F15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A693D4325986415001A2F15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A693D4A259864A7001A2F15 /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9A693D3525986414001A2F15 /* AppDelegate.swift */,
 				9A693D3725986414001A2F15 /* SceneDelegate.swift */,
+				9A693D4A259864A7001A2F15 /* CircularProgressView.swift */,
 				9A693D3925986414001A2F15 /* ViewController.swift */,
 				9A693D3B25986414001A2F15 /* Main.storyboard */,
 				9A693D3E25986415001A2F15 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				9A693D3A25986414001A2F15 /* ViewController.swift in Sources */,
 				9A693D3625986414001A2F15 /* AppDelegate.swift in Sources */,
+				9A693D4B259864A7001A2F15 /* CircularProgressView.swift in Sources */,
 				9A693D3825986414001A2F15 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
